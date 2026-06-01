@@ -37,3 +37,6 @@ Web developer building full-stack apps, cloud data pipelines, and developer tool
 
 [LinkedIn](https://www.linkedin.com/in/vijayeshwaridesu/) 
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=veeeeee-coder&show_icons=true&theme=nord&hide_border=true&hide=stars,contribs" alt="GitHub stats" height="150" />
+</p>
