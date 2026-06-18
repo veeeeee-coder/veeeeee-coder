@@ -13,7 +13,6 @@
 ---
 
 ## 👩‍💻 About Me
-![Profile Views](https://komarev.com/ghpvc/?username=veeeeee-coder&color=blue)
 
 I'm a **third-year B.Tech Computer Science Engineering student** at Vardhaman College of Engineering (JNTUH), graduating in 2027 with a CGPA of **8.86/10**.
 
